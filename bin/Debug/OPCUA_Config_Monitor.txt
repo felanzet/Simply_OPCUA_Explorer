@@ -1,0 +1,11 @@
+OPCUA Monitor Configuration
+9
+ns=4;s=|var|PAC120-PXX01-3X-XX-XX.Application.GVL.QWERTZ.OperationalData.Spoolposition_Mileage_act_value.value
+ns=4;s=|var|PAC120-PXX01-3X-XX-XX.Application.GVL.QWERTZ.OperationalData.Spoolposition_act_avrg.value
+ns=4;s=|var|PAC120-PXX01-3X-XX-XX.Application.GVL.QWERTZ.OperationalData.Spoolposition_act_max.value
+ns=4;s=|var|PAC120-PXX01-3X-XX-XX.Application.GVL.QWERTZ.OperationalData.Spoolposition_act_min.value
+ns=4;s=|var|PAC120-PXX01-3X-XX-XX.Application.GVL.QWERTZ.OperationalData.Spoolposition_act_value.value
+ns=4;s=|var|PAC120-PXX01-3X-XX-XX.Application.GVL.QWERTZ.OperationalData.Spoolposition_cmd_avrg.value
+ns=4;s=|var|PAC120-PXX01-3X-XX-XX.Application.GVL.QWERTZ.OperationalData.Spoolposition_cmd_max.value
+ns=4;s=|var|PAC120-PXX01-3X-XX-XX.Application.GVL.QWERTZ.OperationalData.Spoolposition_cmd_min.value
+ns=4;s=|var|PAC120-PXX01-3X-XX-XX.Application.GVL.QWERTZ.OperationalData.Spoolposition_cmd_value.value
